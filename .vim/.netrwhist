@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/jchristi/Projects/gitolite.corp.redhat.com/it-web/webdrupal/modules/redhat_www'
+let g:netrw_dirhist_2='/home/jchristi/Projects/gitolite.corp.redhat.com/puppet-cfg/dev-manifests/nodes/web-dev-drupal-jesulliv.devlab.phx1.redhat.com'
+let g:netrw_dirhist_3='/home/jchristi/Projects/gitolite.corp.redhat.com/puppet-cfg/dev-manifests/nodes/web-dev-drupal-jchristi.devlab.phx1.redhat.com'
+let g:netrw_dirhist_4='/home/jchristi/Projects/gitolite.corp.redhat.com/puppet-cfg/dev-manifests/nodes/web-dev-drupal-fte.devlab.phx1.redhat.com'
+let g:netrw_dirhist_5='/home/jchristi/Projects/web-dev-gitlab.devlab.redhat.com/webdrupal/modules/redhat_www_content'
+let g:netrw_dirhist_6='/home/jchristi/Projects/web-dev-gitlab.devlab.redhat.com/webdrupal/modules/redhat_www_metatags'
+let g:netrw_dirhist_7='/home/jchristi/Projects/gitolite.corp.redhat.com/puppet-cfg/modules/webdrupal/templates/www/devel/scripts'
